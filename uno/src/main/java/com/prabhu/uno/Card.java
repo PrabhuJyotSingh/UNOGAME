@@ -1,4 +1,4 @@
-package com.prabhu.uno.modal;
+package com.prabhu.uno;
 
 public class Card
 
@@ -142,12 +142,12 @@ public class Card
 
      */
 
-   /* public void play(UnoGame game) {
+   public void play(UnoGame game) {
 
         // Default: has no effect
 
     }
-*/
+
     
 
     /**

@@ -1,6 +1,6 @@
-package com.prabhu.uno.test;
+package com.prabhu.uno;
 
-import com.prabhu.uno.modal.Card;
+import com.prabhu.uno.Card;
 
 import junit.framework.*;
 
